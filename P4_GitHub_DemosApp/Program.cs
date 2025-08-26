@@ -10,6 +10,8 @@ namespace P4_GitHub_DemosApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to GitHub account");
+            Console.WriteLine("Hello");
         }
     }
 }
